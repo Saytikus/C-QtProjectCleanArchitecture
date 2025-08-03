@@ -1,0 +1,1 @@
+Test C++ Qt project based on Clean Architecture
